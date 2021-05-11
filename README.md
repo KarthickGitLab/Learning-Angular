@@ -1,3 +1,3 @@
-# angular-7w9pz6
+# angular-HelloCart
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-7w9pz6)
